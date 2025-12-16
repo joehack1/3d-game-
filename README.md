@@ -30,7 +30,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/maitri-vv/3D-Blockstack.git
+   git clone
    cd 3D-Blockstack
    ```
 
@@ -122,10 +122,7 @@
 
 I welcome contributions! Here's how you can help:
 
-### 🐛 Bug Reports
-- Use the [GitHub Issues](https://github.com/maitri-vv/3D-Blockstack/issues) tab
-- Include steps to reproduce the issue
-- Specify your browser and device type
+
 
 ### 💡 Feature Requests
 - Open an issue with the "enhancement" label
@@ -182,20 +179,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author & Maintainer
 
-**[Maitri V V](https://github.com/maitri-vv)**
+**[JOEL ](https://github.com/joehack1)**
 🎮 Developer & Designer of *3D Blockstack*
 
 📫 **Reach me at:**
 
-* GitHub: [@maitri-vv](https://github.com/maitri-vv)
-* LinkedIn: [maitrivaghasiya](https://linkedin.com/in/maitrivaghasiya)
-* Twitter: [maitrivv](https://twitter.com/maitrivv)
+instagram loter.joe
 
----
 
-## 📄 We're Still Playing! Shoutout to the Amazing Contributors Who Secured the Win.
-
-<a href="https://github.com/maitri-vv/3S-Blockstack/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=maitri-vv/3D-Blockstack" />
 </a>
 
