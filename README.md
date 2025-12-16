@@ -187,10 +187,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 instagram loter.joe
 
 
-<img src="https://contrib.rocks/image?repo=maitri-vv/3D-Blockstack" />
-</a>
-
----
 ## ⭐ Show Your Support
 
 If you enjoyed this game, please give it a ⭐ on GitHub!
